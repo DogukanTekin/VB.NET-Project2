@@ -1,0 +1,16 @@
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+E:\VB Visual Studio\FinalCalismaSoruları\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
